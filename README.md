@@ -13,7 +13,7 @@ In this lab we worked with strings.
 In this lab we worked with arrays.
 
 ### :white_check_mark: Lab 4
-This is my bubble sorting in FASM :smirk:
+This is my bubble sort in FASM :smirk:
 
 ### :white_check_mark: Lab 5
 In this lab, we worked with string instructions.
