@@ -1,4 +1,4 @@
-# :pushpin: This is my labs in FASM for the subject "Programming Languages (Part 1)"
+# :pushpin: These are my labs in FASM for the subject "Programming Languages (Part 1)"
 
 I did these labs in the first year of university in the second semester.
 
